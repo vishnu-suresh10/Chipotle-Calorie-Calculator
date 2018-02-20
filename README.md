@@ -1,5 +1,5 @@
 # Chipotle-Calorie-Calculator
-Calculates total calories in a Chipotle meal.
+Calculates total calories in a Chipotle meal. It utilizes web scraping to find all items on the Chipotle Website and to find the respective calories.
 
 # How to Enter Names of Different Foods
 - tomatillo green-chili salsa
